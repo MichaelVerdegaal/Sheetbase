@@ -4,12 +4,12 @@ This project was made to allow discord bots an easy way to persistently store da
 
 ## Dependecies 
 
-Packages:
+Packages:  
 [Google api client](https://github.com/google/google-api-python-client)  
 [Gspread](https://github.com/burnash/gspread)  
 [Discord.py Rewrite version](https://github.com/Rapptz/discord.py/tree/rewrite)  
 
-Other:
+Other:  
 -Google account  
 -[Google api client credentials](https://gspread.readthedocs.io/en/latest/oauth2.html)  
 -A discord bot account and it's [token](https://discordpy.readthedocs.io/en/rewrite/discord.html)  
