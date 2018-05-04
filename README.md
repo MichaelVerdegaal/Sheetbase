@@ -20,3 +20,7 @@ Place your client_credentials.json in your project directory
 ## Notes
 
 Support files for hosting your bot on Heroku are present already. You'll need to do it manually if you need other packages in your requirement though.
+
+## Planned
+
+Make a different version for people who want to use all the functions in pure Python, not combined with Discord.py syntax.
