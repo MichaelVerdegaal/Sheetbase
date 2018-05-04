@@ -16,3 +16,7 @@ Other:
 
 Place your token in main.py, in the bot.run('TOKEN HERE) line  
 Place your client_credentials.json in your project directory  
+
+## Notes
+
+Support files for hosting your bot on Heroku are present already. You'll need to do it manually if you need other packages in your requirement though.
